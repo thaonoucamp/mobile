@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50c0b787-1d9f-4590-bce7-14e5414818c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-pro/bai-tap-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-pro/bai_tap_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Array-pro/tam-giac-sao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Date_OOP/Date.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Date_OOP/Date.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Date_OOP/Rectangle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Date_OOP/circle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Date_OOP/demo_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/pracatice_Date.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_RAT_CAT/CAT - RAT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_RAT_CAT/Cat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_RAT_CAT/Rat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addProduct/addProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addProduct/all_product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addProduct/deleteProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addProduct/editProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../function1/calFunction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../function1/checkPrime.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../function1/convertTemperture.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../function1/feet-meters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../function1/searchMinValueArr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../function1/sumArr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iphone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice2Array/bai-tap-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceFunction-2/circle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceFunction-2/factorial.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceFunction-2/return-true/checkMin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceFunction-2/return-true/false.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceFunction-2/square.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceFunction/bai-tap-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceFunction/bai-tap-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceFunction/bai-tap-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceFunction/bai-tap-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceFunction/bai-tap-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARRAY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ARRAY/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARRAY/addItem.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ARRAY/addItem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARRAY/coach.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ARRAY/coach.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kzi8TB81s1mEjtKQsUweGByIkt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../addProduct" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50c0b787-1d9f-4590-bce7-14e5414818c2" name="Default Changelist" comment="" />
+      <created>1606709660566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606709660566</updated>
+      <workItem from="1606709661624" duration="6566000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="829" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1606711212114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="829" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1606711212114" />
+    <state x="804" y="119" key="FileChooserDialogImpl" timestamp="1606720739271">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="804" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606720739271" />
+    <state x="183" y="140" key="refactoring.ChangeSignatureDialog" timestamp="1606710824257">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="183" y="140" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1606710824257" />
+    <state x="680" y="164" key="run.anything.popup" timestamp="1606709992185">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="680" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1606709992185" />
+  </component>
+</project>
